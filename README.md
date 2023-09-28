@@ -1,2 +1,2 @@
-# Encryption-Project
-An encryption project...
+# The Encryption Project.
+
